@@ -7,27 +7,27 @@
 本项目希望通过信息分析，获得对自由职业者 (尤其是较有前景的创意型自由职业者)的最小全局认识，了解自由职业者的现状、发展前景及面临的挑战；分析自由职业者的任职资格、所需掌握的核心技能；制定行动指导建议，避免自由职业者「不自由」的诅咒……
 
 ## 目录
-1. [What: 自由职业者的现状 - 前景 vs 困境](#background)
-2. Why: 社会分工演化与趋势
-3. How: 成为自由职业者的路径设计
-4. 实践策略
-5. 参考文献
-6. Changelog
+1. [What: 自由职业者的现状 - 前景 vs 困境](#what)
+2. [Why: 社会分工演化与趋势](#why)
+3. [How: 成为自由职业者的路径设计](#how)
+4. [实践策略](#practice)
+5. [参考文献](#reference)
+6. [Changelog](#changelog)
 
-## <a name="background" href="#background">1. What:自由职业者的现状-前景vs困境</a>
-## 1. What: 自由职业者的现状 - 前景 vs 困境
-## 2. Why: 社会分工演化与趋势
+## <a name="what" href="#what">1. What:自由职业者的现状-前景vs困境</a>
+
+## <a name="why" href="#why">2. Why: 社会分工演化与趋势</a>
  a. 外因：社会分工和组织的发展趋势
  
  b. 内因：个体意识的觉醒
  
-## 3. How: 成为自由职业者的路径设计
+## <a name="how" href="#how">3. How: 成为自由职业者的路径设计</a>
  a. 了解任职资格
  
  b. 技能树与学习地图
  
  b. 行动路线图
-## 4. 实践策略
+## <a name="practice" href="#practice">4. 实践策略</a>
  a. 批量下载200份自由职业者相关的行业报告及文档
  
  b. 抽样阅读获取自由职业者现状的全局认识
@@ -40,8 +40,8 @@
  
  f. 制定行动路线图，增加转行成功概率
  
- ### 5. 参考文献
+ ## <a name="reference" href="#reference">5. 参考文献</a>
  
- ### 6. Changelog
+ ## <a name="changelog" href="#changelog">6. Changelog</a>
  
- 
+ - 190624 V0 创建文档
