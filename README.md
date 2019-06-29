@@ -33,36 +33,53 @@ b. 内因：个体意识的觉醒
 ### 自由职业类别：12大类
 
 Web, Mobile&Software Dev – 网站，移动和软件开发
+
 IT & Networking – IT和网络
+
 Data Science & Analysis – 数据科学和分析
+
 Engineering & Architecture – 工程和建筑
+
 Design & Creative – 设计和创意
+
 Writing – 写作
+
 Translation – 翻译
+
 Legal – 法务
+
 Admin Support – 行政支持
+
 Customer Service – 客户服务
+
 Sales & Marketing – 销售和市场
+
 Accounting & Consulting – 会计和咨询
 
-![Freelancer Category 1](media/15613862578223/Freelancer%20Category%201.png)![Freelancer Category 2](media/15613862578223/Freelancer%20Category%202.png)
+![Freelancer Category 1](media/15613862578223/Freelancer%20Category%201.png)
+![Freelancer Category 2](media/15613862578223/Freelancer%20Category%202.png)
 ![Freelancer Category 3](media/15613862578223/Freelancer%20Category%203.png)
 
 ### 不起眼的差别：Freelance vs Self-employed
 
 Freelance 和 Self-employed 的不同在于你如何看待自己和你的生意：
 
-1. 建立什么？有些人不喜欢 freelancer 这个称呼，是因为他们觉得 Self-employed 听上去更郑重。在人们的印象中 freelancer 更具有极客气质，他们经常在短时间内就能独立完成项目；Self-employed 通常具有创建企业或商业系统的内涵，这让人觉得 Self-employed 是具有企业家精神的人。
+1. 建立什么？有些人不喜欢 Freelancer 这个称呼，是因为他们觉得 Self-employed 听上去更郑重。在人们的印象中 Freelancer 更具有极客气质，他们经常在短时间内就能独立完成项目；Self-employed 通常具有创建企业或商业系统的内涵，这让人觉得 Self-employed 是具有企业家精神的人。
 
-2. 是否一个人做？Freelancer 独立工作；Self-employed 可能会雇佣别人。Freelancing 通常没有建立商业系统的概念。
+2. 是否一个人做？Freelancer 独立工作；Self-employed 可能会雇佣别人。Freelancer 通常没有建立商业系统的概念。
 
 3. 销售什么？Freelancers 销售服务；Self-employed 销售 ideas (创建)。
 
 4. 为谁工作？Freelancer 可能觉得他们仍然需要为谁工作，特别是如果他们需要持续花费时间在一个项目上。Self-employed 人觉得更自主
 
-如果光从收入角度看，freelancer 和 Self-employed 看不出明显差别。一些独立 freelancer 可能比拥有雇员的 Self-employed 挣得多。一些 Self-employed 看重他们的员工胜过现在能挣的钱。
+如果光从收入角度看，Freelancer 和 Self-employed 看不出明显差别。一些独立 Freelancer 可能比拥有雇员的 Self-employed 挣得多。一些 Self-employed 自由职业者看重他们的员工胜过现在能挣的钱。
 
-此外，Self-employed 和 freelance 的税收状况不同。
+此外，Self-employed 和 Freelance 的税收状况不同。
+
+有一个著名的案例，有一位自雇的记者在一家报社内部工作。他用自己的笔记本电脑，但是是在报社的办公桌上办公。税务局错误地声称它是自由职业者 (freelancer)，说他使用的是内部设施，所以不是自雇者 (Self-employed)。
+
+如果他被迫接受税务局的论断，他就要纳更多税，也就意味着损失一大笔钱。他把税务局告上法庭，最终赢了官司。税务局一而再的上诉，但是最终没有向上议院上诉，因为这可能会推翻国家法律。
+
 
 ### 真正的自由是创建系统
 
@@ -70,7 +87,7 @@ Freelance 和 Self-employed 的不同在于你如何看待自己和你的生意�
 
 你期待的自由，短期是「不需要非得和这些人交易」的自由；长期是「不需要为钱工作」的自由。
 
-自由的背后，是「一个人就是一家公司」的能力。
+自由的背后，是「一个人就是一家公司」的能力。要想获得自由，首先你要有意识地成为 Self-employed，创建属于自己的商业系统。或者你可以兼顾两种身份，一边完成一些独立的小项目，一边打造系统。
  
 ## <a name="how" href="#how">3. How: 成为自由职业者的路径设计</a>
 
@@ -82,6 +99,7 @@ Freelance 和 Self-employed 的不同在于你如何看待自己和你的生意�
  b. 行动路线图
  
 ## <a name="practice" href="#practice">4. 实践策略</a>
+
  a. 批量下载200份自由职业者相关的行业报告及文档
  
  b. 抽样阅读获取自由职业者现状的全局认识
